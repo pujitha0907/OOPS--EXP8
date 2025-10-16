@@ -1,5 +1,6 @@
 ##OUTPUT
 
+
 1.
 
 <img width="273" height="428" alt="oops exp 8 Q1 OP1" src="https://github.com/user-attachments/assets/fe14fa09-0cc2-4429-9edc-ede4ce96275e" />
